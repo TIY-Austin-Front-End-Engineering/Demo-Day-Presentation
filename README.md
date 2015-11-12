@@ -46,5 +46,5 @@ Every time I start trying to put together a presentation I watch [this TED talk]
 
 ## Setup tips
 1. [Turn off OS X notifications](https://support.apple.com/kb/PH18740?locale=en_US)
-1. [Turn off OS X energy saver](https://support.apple.com/en-us/HT201714)
+1. [Install Caffeine to prevent computer sleep](https://itunes.apple.com/us/app/caffeine/id411246225?mt=12) or [Turn off OS X energy saver](https://support.apple.com/en-us/HT201714)
 1. Log in to your app if your app has log in
