@@ -43,6 +43,7 @@ Every time I start trying to put together a presentation I watch [this TED talk]
 3. Go with the flow. If an audience member asks a question in the middle of your presentation, take the conversation where they want it to go. *The best thing that can happen is your audience asks a lot of questions.* This means that they are engaged and are interested in what you're saying. Don't kill this vibe, roll with it.
 4. Make good eye contact and assume a confident posture. Not only will this reflect well on you, but it will also [make you more confident](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en). Don't hunch over. Take up space with your body. Use lots of gestures.
 5. Don't speak in a monotone voice. Show that you are excited about all of this work that you did!
+6. Keep your talk positive! Stories about overcoming problems are great, but only if you focus on the solution and your problem solving skills rather the problem itself. 
 
 ## Setup tips
 1. [Turn off OS X notifications](https://support.apple.com/kb/PH18740?locale=en_US)
