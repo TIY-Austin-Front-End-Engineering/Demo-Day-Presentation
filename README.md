@@ -26,7 +26,7 @@ Every time I start trying to put together a presentation I watch [this TED talk]
 	- Feel free to talk about user stories, wire frames, data modeling, etc. These are all parts of your process.
 
 3. Talk about your project (the "what")
-	- Pulling the first two points together, tell your audience what your final product is. This should be a *one sentence description* of what your thing does. The goal here is to give them context but it's much better to show "what" you made rather than try to explain it.
+	- Pulling the first two points together, tell your audience what your final product is. This should be a *one sentence description* of what your app does. The goal here is to give them context but it's much better to show "what" you made rather than try to explain it.
 	- Demo your product. Try to maintain eye contact with the audience, don't hunch over the keyboard. Make sure you are pre-logged in. Nobody cares that you can log in, that is assumed.
 	- The best demos are in story form. "Imagine Sally is going to the grocery store for the first time after discovering she has a food allergy..." and proceed to walk them through the features of your app. As the character in your story encounters a problem show how the app can help to solve it.
 
